@@ -1,0 +1,4 @@
+sa_pet_alert:
+    resource: "@SAPetAlertBundle/Resources/config/routing.xml"
+    prefix:   /
+
